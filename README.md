@@ -16,17 +16,18 @@ Pecu Tsai
 
 ---
 
-## 課綱
+## 課程紀錄
 
 ### Week3
 
-**In Class:**
+#### In Class
+1. 投影片: TODO
 1. 分區：安找你目前的狀態，請坐在最適合你自己的學習區域
-1. 分享時間(上週的重點問題、成果分享)
 1. Django的template和views的互動過程
+1. 分享時間(上週的重點問題、成果分享)
 
-**Mission:**
 
+#### Mission
 1. 學會 Python 基礎
 1. 學會 Django Template Language 基礎
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
@@ -38,8 +39,7 @@ Pecu Tsai
 1. 了解本週的重點問題
 
 
-
-**Some Materials:**
+#### 參考資料
 1. Tutorial for this week: TODO
 1. [Codecademy: Python](https://www.google.com.tw/search?q=codecademy+python)
 1. Django模板教學
@@ -55,11 +55,12 @@ Pecu Tsai
 
 ### Week2
 
-**In Class:**
+#### In Class
+1. 投影片: https://ppt.cc/fODSux
 1. live demo last week's example
-2. basic HTML/CSS
+1. basic HTML/CSS
 
-**Mission:**
+#### Mission
 
 1. 確認你熟悉『全段著手開發的流程』（教學影片： https://goo.gl/fJNuYw )
 1. 學會 HTML + CSS 基礎
@@ -83,7 +84,7 @@ Pecu Tsai
 * 怎麼保證『遠端』跟『本機端』是一樣的？
 
 
-**Some Materials:**
+#### 參考資料
 
 * 注意： 我們推薦用 [Codecademy](https://www.codecademy.com/) 等等網站來訓練程式基礎～
 
@@ -98,46 +99,40 @@ Pecu Tsai
     * CSS 基礎訓練： https://www.codecademy.com/catalog/language/html-css
     * CSS 中文簡介網站： https://www.1keydata.com/css-tutorial/tw/syntax.php
 1. Week2 example repository https://github.com/michael0703/DjangoWeek2HTMLCSS
+      * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
 1. 有些同學可能會不知道怎麼把第一週clone下來的我的repo成功的丟上自己的github.或是怎麼樣把github上面的檔案同步下來本機端
     * 如何push上github https://goo.gl/BGAa5m
     * 如何從github上pull下來本地端 https://goo.gl/PjDkhu
-
-
-**My Example:**
-https://helloworldwei.herokuapp.com
 
 --- 
     
 ### Week1
 
 
-**In class:**
-
+#### In class
+1. 投影片: https://ppt.cc/fPu5Qx
 1. register Heroku, Github 
 1. install Django
 1. learn heroku and git
 
 
 
-
-**完整流程:**
-
-**Mission:**
+#### Mission
 
 1. 學會 Command-line 操作基礎
 1. 裝好 Heroku + 跑讓本幾段跑出來
 1. 把結果 push 到 Github
 1. finish the class assignment
 
-**Some material:**
+
+#### 參考資料
+
 * Install Heroku CLI: https://devcenter.heroku.com/articles/getting-started-with-python#set-up
     * MAC: use [Homebrew](https://brew.sh/index_zh-tw) to install
     * Windows: use [Chocolatey](https://chocolatey.org/) to install
 * Follow the instruction video: https://goo.gl/eirmji
 * Week1 example repository https://github.com/michael0703/DjangoWeek1HelloWorld
-如果你也想用命令列操作git
-https://git-scm.com/book/zh-tw/v2/開始-Git-安裝教學
-https://blog.gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
-
-**My Example:**
-https://helloworldwei.herokuapp.com
+    * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
+* Git 的教學
+    * https://git-scm.com/book/zh-tw/v2/開始-Git-安裝教學
+    * https://blog.gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
