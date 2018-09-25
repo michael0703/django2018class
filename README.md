@@ -31,6 +31,7 @@ Pecu Tsai
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
 1. 確認：你可以用 `for` loop 來顯示一個圖片的清單 (修改 template 的 html，加入模板語言)
     * 例如 (圖片可以點放大)： <img src="https://i.imgur.com/rzgNAlG.jpg"  width="400">
+    * 強者，很鼓勵顯示一些更有創意的怪東西～ (例如： 可以參考 http://random.cat/)
 1. 把新的結果 push 到上週新開的 Github Repo
 1. 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
 1. 共學的時候，跟更多同學互動，開始認識大家的名字
