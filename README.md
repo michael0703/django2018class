@@ -1,0 +1,1 @@
+# django2018class
