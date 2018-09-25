@@ -11,7 +11,7 @@ Pecu Tsai
 * 今年大三資工系的學生。
 
 薛德明 (Domi)
-* 資工博六（修學狀態）
+* 資工博六（休學狀態）
 
 ---
 
@@ -32,14 +32,20 @@ Pecu Tsai
 1. 確認：你可以用 `for` loop 來顯示一個圖片的清單 (修改 template 的 html，加入模板語言)
     * 例如 (圖片可以點放大)： <img src="https://i.imgur.com/rzgNAlG.jpg"  width="400">
     * 強者，很鼓勵顯示一些更有創意的怪東西～ (例如： 可以參考 http://random.cat/)
-1. 把新的結果 push 到上週新開的 Github Repo
-1. 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
+1. 把新的結果 push 到上週新開的 Github Repo + 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
 1. 共學的時候，跟更多同學互動，開始認識大家的名字
+1. 花 10 分鐘反思你的學習過程，並且在 `README.md` 裡面做基本的學習紀錄一下
+    * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
+    * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 1. 了解本週的重點問題
+    * TODO
 
 
 #### 參考資料
-1. Tutorial for this week: TODO
+
+1. 『全段著手開發的流程』教學影片 https://goo.gl/fJNuYw
+1. Week3 如何 Django 介紹: https://goo.gl/y4aMG3
+1. https://campus.datacamp.com/courses/intro-to-python-for-data-science
 1. [Codecademy: Python](https://www.google.com.tw/search?q=codecademy+python)
 1. Django模板教學
     * TODO
@@ -66,6 +72,9 @@ Pecu Tsai
 1. 在本機端開發，將 view.py 修改後透過 Django 產生靜態頁面，且自己打開 localhost (本機端) 的網址做確認內容是正確的
 1. 把新的結果 push 到上週新開的 Github Repo
 1. 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
+1. 花 10 分鐘反思你的學習過程，並且在 `README.md` 裡面做基本的學習紀錄一下
+    * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
+    * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 1. 了解本週的重點問題
 
 * 著手開發的步驟是？
@@ -88,7 +97,6 @@ Pecu Tsai
 * 注意： 我們推薦用 [Codecademy](https://www.codecademy.com/) 等等網站來訓練程式基礎～
 
 1. 『全段著手開發的流程』教學影片 https://goo.gl/fJNuYw
-1. Week2 Django 操作範例： https://goo.gl/ePSmdr (會讓基本的東西顯示之後請訓練 HTML + CSS 基礎語法)
 1. HTML basics
     * HTML 基礎訓練： https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro
     * HTML 的檔案架構與連結訓練： https://www.codecademy.com/courses/learn-html/lessons/common-html-elements/exercises/prepare-html
@@ -97,8 +105,9 @@ Pecu Tsai
 1. CSS basics
     * CSS 基礎訓練： https://www.codecademy.com/catalog/language/html-css
     * CSS 中文簡介網站： https://www.1keydata.com/css-tutorial/tw/syntax.php
-1. Week2 example repository https://github.com/michael0703/DjangoWeek2HTMLCSS
-      * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
+1. Week2 Django 範例介紹： https://goo.gl/ePSmdr
+    * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
+    * Week2 example repository: https://github.com/michael0703/DjangoWeek2HTMLCSS
 1. 有些同學可能會不知道怎麼把第一週clone下來的我的repo成功的丟上自己的github.或是怎麼樣把github上面的檔案同步下來本機端
     * 如何push上github https://goo.gl/BGAa5m
     * 如何從github上pull下來本地端 https://goo.gl/PjDkhu
