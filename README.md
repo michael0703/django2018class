@@ -15,9 +15,8 @@ Pecu Tsai
 
 ---
 
-## 課程紀錄
+## Week3
 
-### Week3
 
 #### In Class
 1. 投影片: TODO
@@ -52,7 +51,7 @@ Pecu Tsai
 
 --- 
 
-### Week2
+## Week2
 
 #### In Class
 1. 投影片: https://ppt.cc/fODSux
@@ -105,7 +104,7 @@ Pecu Tsai
 
 --- 
     
-### Week1
+## Week1
 
 
 #### In class
