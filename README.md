@@ -26,6 +26,7 @@ Pecu Tsai
 
 
 #### Mission
+1. 共學的時候，跟更多同學互動，開始認識大家的名字
 1. 學會 Python 基礎
 1. 學會 Django Template Language 基礎
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
@@ -33,7 +34,6 @@ Pecu Tsai
     - 例如 (圖片可以點放大)： <a href="https://i.imgur.com/rzgNAlG.jpg"><img src="https://i.imgur.com/rzgNAlG.jpg"  width="400"></a>
     - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如： 可以參考 http://random.cat/ )
 1. 把新的結果 push 到上週新開的 Github Repo + 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
-1. 共學的時候，跟更多同學互動，開始認識大家的名字
 1. 花 10 分鐘反思你的學習過程，並且在 `README.md` 裡面做基本的學習紀錄一下
     - [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
     - [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
