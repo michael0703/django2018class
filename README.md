@@ -22,9 +22,6 @@ Pecu Tsai
 
 #### In Class
 1. 投影片: [https://goo.gl/AmctUS](https://goo.gl/AmctUS)
-1. 分區：按找你目前的狀態，請坐在最適合你自己的學習區域
-1. Django的template和views的互動過程
-1. 分享時間(上週的重點問題、成果分享)
 
 
 #### Mission
@@ -59,7 +56,8 @@ Pecu Tsai
     - 提示: [https://goo.gl/y4aMG3](https://goo.gl/y4aMG3)
 1. [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 1. [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
-1. Django模板教學
+1. Django Template 教學
+    - [Django 的 Template 怎麼開始下手？](https://www.youtube.com/watch?v=Iy4niMCsbEE&feature=youtu.be)
     - [基礎模板教學](http://tw-hkt.blogspot.com/2017/02/django_42.html)
     - [Django 官方說明書：Django Template Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
 
