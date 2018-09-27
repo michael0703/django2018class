@@ -1,5 +1,7 @@
 # CSX0013 數位應用程式設計
 
+### [這個網址如果顯示有問題，請點我看沒有 bug 的版本](https://github.com/michael0703/django2018class)
+
 網址： https://michael0703.github.io/django2018class/
 
 ## 課程協助者
