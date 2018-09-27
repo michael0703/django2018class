@@ -39,15 +39,15 @@ Pecu Tsai
     * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 1. 了解本週的重點問題
    * 模板語言 
-       * html中要怎麼使用一個變數？
-       * 如果要在html中使用for、if 需要加上什麼符號？
-       * 你還用到了什麼其他的模板語言(for、if之外的)
+         * html中要怎麼使用一個變數？
+         * 如果要在html中使用for、if 需要加上什麼符號？
+         * 你還用到了什麼其他的模板語言(for、if之外的)
    * views和template的互動
-       * template是如何知道模板中變數((ex: {{message}}))的值是多少?
-       * render的第三個參數必須要是什麼樣的資料結構？
+         * template是如何知道模板中變數((ex: {{message}}))的值是多少?
+         * render的第三個參數必須要是什麼樣的資料結構？
    * python基礎
-       * python需不需要縮排？句尾要加分號嗎？
-       * python字典(dictionary)要怎麼宣告？列表(list)要怎麼宣告？
+         * python需不需要縮排？句尾要加分號嗎？
+         * python字典(dictionary)要怎麼宣告？列表(list)要怎麼宣告？
 
 #### 參考資料
 
@@ -55,8 +55,8 @@ Pecu Tsai
 1. Week3 範例介紹:
    * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
    * 提示: https://goo.gl/y4aMG3
-1. [https://campus.datacamp.com/courses/intro-to-python-for-data-science](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
-1. [Codecademy: Python](https://www.google.com.tw/search?q=codecademy+python)
+1. [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+1. [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
 1. Django模板教學
     * TODO
     * [Django 官方說明書：Django Template Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
