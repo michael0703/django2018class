@@ -20,7 +20,7 @@ Pecu Tsai
 
 #### In Class
 1. 投影片: TODO
-1. 分區：安找你目前的狀態，請坐在最適合你自己的學習區域
+1. 分區：按找你目前的狀態，請坐在最適合你自己的學習區域
 1. Django的template和views的互動過程
 1. 分享時間(上週的重點問題、成果分享)
 
@@ -38,7 +38,10 @@ Pecu Tsai
     * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
     * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 1. 了解本週的重點問題
-    * TODO
+    * 模板語言 
+        *template是如何知道模板中變數((ex: {{message}}))的值是多少？ 
+        *
+        
 
 
 #### 參考資料
