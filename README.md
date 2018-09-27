@@ -54,7 +54,7 @@ Pecu Tsai
 1. 『全段著手開發的流程』教學影片 [https://goo.gl/fJNuYw](https://goo.gl/fJNuYw)
 1. Week3 範例介紹:
    * [點這裡看線上結果](https://helloworldwei.herokuapp.com)
-   * 提示: https://goo.gl/y4aMG3
+   * 提示: [https://goo.gl/y4aMG3](https://goo.gl/y4aMG3)
 1. [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 1. [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
 1. Django模板教學
