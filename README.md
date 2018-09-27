@@ -58,7 +58,7 @@ Pecu Tsai
 1. [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
 1. [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
 1. Django模板教學
-    - TODO
+    - [基礎模板教學](http://tw-hkt.blogspot.com/2017/02/django_42.html)
     - [Django 官方說明書：Django Template Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
 
 
