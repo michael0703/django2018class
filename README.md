@@ -38,16 +38,16 @@ Pecu Tsai
     * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
     * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 1. 了解本週的重點問題
-   * 模板語言 
-         * html中要怎麼使用一個變數？
-         * 如果要在html中使用for、if 需要加上什麼符號？
-         * 你還用到了什麼其他的模板語言(for、if之外的)
-   * views和template的互動
-         * template是如何知道模板中變數((ex: {{message}}))的值是多少?
-         * render的第三個參數必須要是什麼樣的資料結構？
-   * python基礎
-         * python需不需要縮排？句尾要加分號嗎？
-         * python字典(dictionary)要怎麼宣告？列表(list)要怎麼宣告？
+   - 模板語言 
+     - html中要怎麼使用一個變數？
+     - 如果要在html中使用for、if 需要加上什麼符號？
+     - 你還用到了什麼其他的模板語言(for、if之外的)
+   - views和template的互動
+     - template是如何知道模板中變數((ex: {{message}}))的值是多少?
+     - render的第三個參數必須要是什麼樣的資料結構？
+   - python基礎
+     - python需不需要縮排？句尾要加分號嗎？
+     - python字典(dictionary)要怎麼宣告？列表(list)要怎麼宣告？
 
 #### 參考資料
 
