@@ -31,7 +31,7 @@ Pecu Tsai
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
 1. 確認：你可以用 `for` loop 來顯示東西 (修改 template 的 html，加入模板語言)
     - 例如顯示出一堆隨機抓過來的圖 (圖片可以點放大)： <a href="https://i.imgur.com/rzgNAlG.jpg"><img src="https://i.imgur.com/rzgNAlG.jpg"  width="400"></a>
-    - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如：透過 `request` 下載線上的東西，然後用 Django Template Language 重新整理顯示出來)
+    - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如：透過 [`request`](https://stackoverflow.com/questions/42737733/send-http-request-using-django-and-get-results) 下載線上的東西，然後用 Django Template Language 重新整理顯示出來)
 1. 把新的結果 push 到上週新開的 Github Repo + 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
 1. 反省一下 － 你到底有沒有學習的成就感？（提出幾個重點問題給你參考）
    - 模板語言 
@@ -54,8 +54,10 @@ Pecu Tsai
 1. Week3 範例介紹:
     - [點這裡看線上結果](https://helloworldwei.herokuapp.com)
     - 提示: [https://goo.gl/y4aMG3](https://goo.gl/y4aMG3)
-1. [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
-1. [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
+1. Python 基礎教學
+   - [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (有中文字幕)
+   - [Datacamp: Python 基礎教學](https://campus.datacamp.com/courses/intro-to-python-for-data-science)
+   - [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
 1. Django Template 教學
     - [Django 的 Template 怎麼開始下手？](https://www.youtube.com/watch?v=Iy4niMCsbEE&feature=youtu.be)
     - [基礎模板教學](http://tw-hkt.blogspot.com/2017/02/django_42.html)
