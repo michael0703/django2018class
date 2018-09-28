@@ -60,6 +60,7 @@ Pecu Tsai
    - [Codecademy: Python 基礎教學](https://www.google.com.tw/search?q=codecademy+python)
 1. Django Template 教學
     - [Django 的 Template 怎麼開始下手？](https://www.youtube.com/watch?v=Iy4niMCsbEE&feature=youtu.be)
+    - [影片：Django 中的 for loop](https://www.youtube.com/watch?v=uB5cL0Hghgw) （英文）
     - [基礎模板教學](http://tw-hkt.blogspot.com/2017/02/django_42.html)
     - [Django 官方說明書：Django Template Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
 1. 前端排版搞定 (How to do proper layouting in HTML?)
