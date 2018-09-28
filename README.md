@@ -62,6 +62,10 @@ Pecu Tsai
     - [Django 的 Template 怎麼開始下手？](https://www.youtube.com/watch?v=Iy4niMCsbEE&feature=youtu.be)
     - [基礎模板教學](http://tw-hkt.blogspot.com/2017/02/django_42.html)
     - [Django 官方說明書：Django Template Language](https://docs.djangoproject.com/en/2.1/ref/templates/language/)
+1. 前端排版搞定 (How to do proper layouting in HTML?)
+    - 答案 #1： Flexbox!!!
+    - [中文的影片: CSS3 Flexbox 完整教學](https://www.youtube.com/watch?v=e6rZDyURgTY)
+    - [Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <img src="https://i.imgur.com/nPMnnYt.png" height="100px">
 
 
 
