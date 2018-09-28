@@ -66,6 +66,7 @@ Pecu Tsai
     - 答案 #1： Flexbox!!!
     - [中文的影片: CSS3 Flexbox 完整教學](https://www.youtube.com/watch?v=e6rZDyURgTY)
     - [Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <img src="https://i.imgur.com/nPMnnYt.png" height="100px">
+    - [中文版 Flexbox Cheatsheet](https://www.oxxostudio.tw/articles/201501/css-flexbox.html)
 
 
 
