@@ -50,7 +50,7 @@ Pecu Tsai
 
 #### 參考資料
 
-1. 『全段著手開發的流程』教學影片 [https://goo.gl/fJNuYw](https://goo.gl/fJNuYw)
+1. 搞定[『全段著手開發的流程』10個步驟](https://docs.google.com/presentation/d/1-iTMn9BbuanJqMERGoObx1JYhKFTNINt5_ifrDXURao/edit#slide=id.g42c94c5ac4_0_8)
 1. Week3 範例介紹:
     - [點這裡看線上結果](https://helloworldwei.herokuapp.com)
     - 提示: [https://goo.gl/y4aMG3](https://goo.gl/y4aMG3)
@@ -78,8 +78,8 @@ Pecu Tsai
 1. basic HTML/CSS
 
 #### Mission
-
-1. 確認你熟悉『全段著手開發的流程』（教學影片： https://goo.gl/fJNuYw )
+1. 搞定[『全段著手開發的流程』10個步驟](https://docs.google.com/presentation/d/1-iTMn9BbuanJqMERGoObx1JYhKFTNINt5_ifrDXURao/edit#slide=id.g42c94c5ac4_0_8)
+    * 教學影片： https://goo.gl/fJNuYw
 1. 學會 HTML + CSS 基礎
 1. 在本機端開發，將 view.py 修改後透過 Django 產生靜態頁面，且自己打開 localhost (本機端) 的網址做確認內容是正確的
 1. 把新的結果 push 到上週新開的 Github Repo
