@@ -29,9 +29,9 @@ Pecu Tsai
 1. 學會 Python 基礎
 1. 學會 Django Template Language 基礎
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
-1. 確認：你可以用 `for` loop 來顯示一個圖片的清單 (修改 template 的 html，加入模板語言)
+1. 確認：你可以用 `for` loop 來顯示東西 (修改 template 的 html，加入模板語言)
     - 例如 (圖片可以點放大)： <a href="https://i.imgur.com/rzgNAlG.jpg"><img src="https://i.imgur.com/rzgNAlG.jpg"  width="400"></a>
-    - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如： 可以參考 http://random.cat/ )
+    - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如：透過 `request` 下載線上的東西，然後用 Django Template Language 重新整理顯示出來)
 1. 把新的結果 push 到上週新開的 Github Repo + 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
 1. 反省一下 － 你到底有沒有學習的成就感？（提出幾個重點問題給你參考）
    - 模板語言 
