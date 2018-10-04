@@ -39,6 +39,7 @@ Pecu Tsai
 1. 確認[『全段著手開發的流程』10個步驟](https://docs.google.com/presentation/d/1-iTMn9BbuanJqMERGoObx1JYhKFTNINt5_ifrDXURao/edit#slide=id.g42c94c5ac4_0_8) 是完全 ok 的，有記住的了啦～
 1. [本週任務提示](https://goo.gl/c5v9cG)
 1. [Django Models介紹](https://goo.gl/aSJoKd)
+1. [Net Ninja - Django models](https://www.youtube.com/watch?v=5zNR3E6WRLE)
 
 
 ## Week3
