@@ -26,20 +26,33 @@ Pecu Tsai
 1. 共學的時候，（跟著自己個性適當的）儘量參與活動，認識三陌生同學
 1. 設定資料庫（最簡單的資料庫，也就是範例： sqlite）
 1. 設定你第一個 `model`
-1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema`
+1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema` 
 1. 學會如何用 `django` 的指令來控制資料庫的內容（尤其是：確認說你會加資料進去）
 1. 複習 Python 基礎：搞定 `list` and `dictionary`
 1. 在頁面上可以看到資料庫中的資料
 1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個完整的應用（例如： guest book, ）。
 1. [自願] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
-
+1. 了解本週重點問題：
+    * 資料庫
+        - 資料庫和資料表的差別？
+        - 欄位(field)是什麼？
+    * Django Model
+        - 如何初始化資料庫？
+        - 如何更改資料庫的結構並且讓django套用？
+    * Django和資料庫的互動
+        - 如何在新增資料進去資料庫？
+        - 如何從資料庫中取得現有資料？
+        - 如何修改資料庫中的資料(請試著google看看)
 
 #### 參考資料
 
 1. 確認[『全段著手開發的流程』10個步驟](https://docs.google.com/presentation/d/1-iTMn9BbuanJqMERGoObx1JYhKFTNINt5_ifrDXURao/edit#slide=id.g42c94c5ac4_0_8) 是完全 ok 的，有記住的了啦～
-1. [本週任務提示](https://goo.gl/c5v9cG)
+1. 本週任務：
+    1.[本週任務提示](https://goo.gl/c5v9cG)
+    1.[範例網址](https://weidbtest.herokuapp.com/)
 1. [Django Models介紹](https://goo.gl/aSJoKd)
 1. [Net Ninja - Django models](https://www.youtube.com/watch?v=5zNR3E6WRLE)
+1. [Django Migration到底在做什麼？](https://realpython.com/django-migrations-a-primer/)
 
 
 ## Week3
