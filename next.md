@@ -23,7 +23,7 @@ Pecu Tsai
 1. 投影片: TODO
 
 #### Mission
-1. 共學的時候，（跟著自己個性適當的）儘量參與活動，認識三陌生同學
+1. 共學的時候，儘量認識三個陌生同學，問他們一兩個問題，看看能不能聊得來（也不一定需要聊得來啦～）
 1. 設定資料庫（最簡單的資料庫，也就是範例： sqlite）
 1. 設定你第一個 `model`
 1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema` 
@@ -31,18 +31,24 @@ Pecu Tsai
 1. 複習 Python 基礎：搞定 `list` and `dictionary`
 1. 在頁面上可以看到資料庫中的資料
 1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個完整的應用（例如： guest book, ）。
-1. [自願] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
-1. 了解本週重點問題：
-    * 資料庫
+1. [多餘給強者的題目] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
+1. [推薦] 花 1-60 分鐘（自己決定啦～）面對本週重點問題：
+    * 你今天認識了幾個新的同學？
+    * 資料庫 (Database)
         - 資料庫和資料表的差別？
-        - 欄位(field)是什麼？
+        - row + column 之間的差別是什麼？Row 是什麼？ Column 是什麼？
+        - SQLite 跟 SQL 之間的差別是什麼？
+        - SQLite (SQL) 裡面怎麼加資料表 (Table)？
+        - SQLite (SQL) 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
     * Django Model
-        - 如何初始化資料庫？
-        - 如何更改資料庫的結構並且讓django套用？
-    * Django和資料庫的互動
-        - 如何在新增資料進去資料庫？
+        - 如何在 Django 裡面初始化資料庫？（提示： `migrate` ）
+        - 如何加新的資料 (row) 到資料表 (Table) 裡面了？
         - 如何從資料庫中取得現有資料？
-        - 如何修改資料庫中的資料(請試著google看看)
+        - 如何修改資料庫中已經存起來的資料(請試著google看看)？
+        - 改資料庫之中的資料表 (Table) 之後還要改什麼才能讓使用者看到新的資料？怎麼改？
+1. 花 10 分鐘反思你的學習過程，並且在 `README.md` 裡面做基本的學習紀錄一下
+    * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
+    * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
 
 #### 參考資料
 
