@@ -60,6 +60,7 @@ Pecu Tsai
    1. [本週任務提示](https://goo.gl/c5v9cG)
    1. [範例網址](https://weidbtest.herokuapp.com/)
    1. [Django Models介紹](https://goo.gl/aSJoKd)
+   1. [Django 操作資料庫教學](https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/django/orm.html)
 1. [Django 教材： 資料模型與資料庫](http://yltang.net/tutorial/django/7/) [全中文！！！]
 1. [Net Ninja - Django models](https://www.youtube.com/watch?v=5zNR3E6WRLE)
 1. [Django Migration到底在做什麼？](https://realpython.com/django-migrations-a-primer/)
