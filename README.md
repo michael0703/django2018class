@@ -24,6 +24,7 @@ Pecu Tsai
 
 #### Mission
 1. 共學的時候，儘量認識三個陌生同學，問他們一兩個問題，看看能不能聊得來（也不一定需要聊得來啦～）
+1. 確認你會打開本機端的伺服器且在本機端開發： `python manage.py runserver`
 1. 設定資料庫（最簡單的資料庫，也就是範例： sqlite）
 1. 設定你第一個 `model`
 1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema` 
