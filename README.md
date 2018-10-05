@@ -17,6 +17,56 @@ Pecu Tsai
 
 ---
 
+## Week4
+
+#### In Class
+1. 投影片: https://docs.google.com/presentation/d/1cMKatsT5Cp580ghxtYdTWKE03nbcHdVwKVk3Miyl2YI/edit?usp=sharing
+
+#### Mission
+1. 共學的時候，儘量認識三個陌生同學，問他們一兩個問題，看看能不能聊得來（也不一定需要聊得來啦～）
+1. 設定資料庫（最簡單的資料庫，也就是範例： sqlite）
+1. 設定你第一個 `model`
+1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema` 
+1. 學會如何用 `django` 的指令來控制資料庫的內容（尤其是：確認說你會加資料進去）
+1. 複習 Python 基礎：搞定 `list`, `dictionary` and `class` 三個概念，因為。。。
+   * 資料庫最喜歡吐出來的資料主要是 `list` + `dictionary`
+   * 那些 `list` + `dictionary` 裡面的東西就是 model `class` 所定義的物件
+1. 確保說：在頁面上可以看到資料庫中的資料
+1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個完整的應用（例如： guest book, ）
+1. [多餘給強者的題目] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
+1. [推薦] 花 1-60 分鐘（自己決定啦～）面對本週重點問題：
+    * 你今天認識了幾個新的同學？
+    * 資料庫 (Database)
+        - 資料庫和資料表的差別？
+        - row + column 之間的差別是什麼？Row 是什麼？ Column 是什麼？
+        - SQLite 跟 SQL 之間的差別是什麼？
+        - SQLite (SQL) 裡面怎麼加資料表 (Table)？
+        - SQLite (SQL) 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
+    * Django Model
+        - 如何在 Django 裡面初始化資料庫？（提示： `migrate` ）
+        - 如何加新的資料 (row) 到資料表 (Table) 裡面了？
+        - 如何從資料庫中取得現有資料？
+        - 如何修改資料庫中已經存起來的資料(請試著google看看)？
+        - 改資料庫之中的資料表 (Table) 之後還要改什麼才能讓使用者看到新的資料？怎麼改？
+1. 花 10 分鐘反思你的學習過程，並且在 `README.md` 裡面做基本的學習紀錄一下
+    * [其他課程同學 README 範例 #1](https://github.com/HowardChao/CSX_RProject_Spring_2018)
+    * [其他課程同學 README 範例 #2](https://github.com/Dennishi0925/CSX_RProject_Spring_2018)
+
+#### 參考資料
+
+1. 確認[『全段著手開發的流程』10個步驟](https://docs.google.com/presentation/d/1-iTMn9BbuanJqMERGoObx1JYhKFTNINt5_ifrDXURao/edit#slide=id.g42c94c5ac4_0_8) 是完全 ok 的，有記住的了啦～
+1. 助教幫忙準備
+   1. [本週任務提示](https://goo.gl/c5v9cG)
+   1. [範例網址](https://weidbtest.herokuapp.com/)
+   1. [Django Models介紹](https://goo.gl/aSJoKd)
+1. [Django 教材： 資料模型與資料庫](http://yltang.net/tutorial/django/7/) [全中文！！！]
+1. [Net Ninja - Django models](https://www.youtube.com/watch?v=5zNR3E6WRLE)
+1. [Django Migration到底在做什麼？](https://realpython.com/django-migrations-a-primer/)
+1. 更多 Python 基礎
+   * [Codecademy: Python - Lists and Dictionaries](https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/introduction-to-lists?action=resume_content_item)
+   * [Udacity: Python - Writing your own Classes](https://classroom.udacity.com/courses/ud036/lessons/997889780/concepts/10136290570923) 如何用 Python 來定義 `class`？ [有中文字幕！！！]
+
+
 ## Week3
 
 
@@ -29,7 +79,7 @@ Pecu Tsai
 1. 學會 Python 基礎
 1. 學會 Django Template Language 基礎
 1. 了解 views 如何和 template 進行互相控制，並且修改自己的網頁(具體目標待確認)
-1. 確認：你可以用 `for` loop 來顯示東西 (修改 template 的 html，加入模板語言)
+1. 確認：你可以用 Python 的 `for` loop 來顯示東西 (修改 template 的 html，加入模板語言)
     - 例如顯示出一堆隨機抓過來的圖 (圖片可以點放大)： <a href="https://i.imgur.com/rzgNAlG.jpg"><img src="https://i.imgur.com/rzgNAlG.jpg"  width="400"></a>
     - 強者，很鼓勵顯示一些更有創意的怪東西～ (例如：透過 [`request`](https://stackoverflow.com/questions/42737733/send-http-request-using-django-and-get-results) 下載線上的東西，然後用 Django Template Language 重新整理顯示出來)
 1. 把新的結果 push 到上週新開的 Github Repo + 把結果上傳至 Heroku，且確認 Heroku 上面的版本跟本機端的是一樣的
