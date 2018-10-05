@@ -66,6 +66,7 @@ Pecu Tsai
    * [Codecademy: Python - Lists and Dictionaries](https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/introduction-to-lists?action=resume_content_item)
    * [Udacity: Python - Writing your own Classes](https://classroom.udacity.com/courses/ud036/lessons/997889780/concepts/10136290570923) 如何用 Python 來定義 `class`？ [有中文字幕！！！]
 
+---
 
 ## Week3
 
