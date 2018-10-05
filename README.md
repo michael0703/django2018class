@@ -32,8 +32,8 @@ Pecu Tsai
    * 資料庫最喜歡吐出來的資料主要是 `list` + `dictionary`
    * 那些 `list` + `dictionary` 裡面的東西就是 model `class` 所定義的物件
 1. 確保說：在頁面上可以看到資料庫中的資料
-1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個完整的應用（例如： guest book, ）
-1. [多餘給強者的題目] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
+1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個簡單的應用（例如： guest book, 『我瘋狂的興趣』的網站, 我奇怪的 TODO list 等等～）
+1. [多餘給強者的部分] 自學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
 1. [推薦] 花 1-60 分鐘（自己決定啦～）面對本週重點問題：
     * 你今天認識了幾個新的同學？
     * 資料庫 (Database)
@@ -41,7 +41,7 @@ Pecu Tsai
         - row + column 之間的差別是什麼？Row 是什麼？ Column 是什麼？
         - SQLite 跟 SQL 之間的差別是什麼？
         - SQLite (SQL) 裡面怎麼加資料表 (Table)？
-        - SQLite (SQL) 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
+        - [多餘給強者的問題] SQLite (SQL) 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
     * Django Model
         - 如何在 Django 裡面初始化資料庫？（提示： `migrate` ）
         - 如何加新的資料 (row) 到資料表 (Table) 裡面了？
