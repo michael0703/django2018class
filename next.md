@@ -17,31 +17,50 @@ Pecu Tsai
 
 ---
 
+## Week5
+
+#### In Class
+
+[投影片](TODO)
+
+#### Mission
+
+
+
+#### 參考資料
+
+
+
+---
+
 ## Week4
 
 #### In Class
-1. 投影片: TODO
+
+[投影片](https://docs.google.com/presentation/d/1cMKatsT5Cp580ghxtYdTWKE03nbcHdVwKVk3Miyl2YI/edit?usp=sharing)
 
 #### Mission
 1. 共學的時候，儘量認識三個陌生同學，問他們一兩個問題，看看能不能聊得來（也不一定需要聊得來啦～）
-1. 設定資料庫（最簡單的資料庫，也就是範例： sqlite）
+1. 確認你會打開本機端的伺服器且在本機端開發： `python manage.py runserver`
+1. 設定資料庫（我們推薦： PostgreSQL）
 1. 設定你第一個 `model`
-1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema` 
+1. 用 `django migrate` 的指令來建立資料庫中新的 `Schema`
+    * （`Schema` 是指：一堆資料表的架構，也就是你的 app 在資料庫中存起來資料的『資料架構』）
 1. 學會如何用 `django` 的指令來控制資料庫的內容（尤其是：確認說你會加資料進去）
 1. 複習 Python 基礎：搞定 `list`, `dictionary` and `class` 三個概念，因為。。。
-   * 資料庫最喜歡吐出來的資料主要是 `list` + `dictionary`
-   * 那些 `list` + `dictionary` 裡面的東西就是 model `class` 所定義的物件
+    * 資料庫最喜歡吐出來的資料主要是 `list` + `dictionary`
+    * 那些 `list` + `dictionary` 裡面的東西就是 model `class` 所定義的物件
 1. 確保說：在頁面上可以看到資料庫中的資料
-1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個完整的應用（例如： guest book, ）
-1. [多餘給強者的題目] 強者可以開始往前衝學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
+1. 稍微視覺化資料；不只要單純看到一些數字文字，反而要顯示一個簡單的應用（例如： guest book, 『我瘋狂的興趣』的網站, 我奇怪的 TODO list 等等～）
+1. [多餘給強者的部分] 自學會 `Week5` 的內容重點：透過 `form`, `url`, `request handler` + `router` 讓使用者輸入新的資料或更改已有的資料
 1. [推薦] 花 1-60 分鐘（自己決定啦～）面對本週重點問題：
     * 你今天認識了幾個新的同學？
     * 資料庫 (Database)
         - 資料庫和資料表的差別？
         - row + column 之間的差別是什麼？Row 是什麼？ Column 是什麼？
-        - SQLite 跟 SQL 之間的差別是什麼？
-        - SQLite (SQL) 裡面怎麼加資料表 (Table)？
-        - SQLite (SQL) 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
+        - PostgreSQL 跟 SQL 之間的差別是什麼？兩個概念之中，哪一個比較大比較抽象？
+        - PostgreSQL 裡面怎麼加資料表 (Table)？
+        - [多餘給強者的問題] PostgreSQL 裡面怎麼進行 Insert, Delete, Update, Select 個別四種 operation？每個 operation 的 SQL 語法是什麼？
     * Django Model
         - 如何在 Django 裡面初始化資料庫？（提示： `migrate` ）
         - 如何加新的資料 (row) 到資料表 (Table) 裡面了？
@@ -59,6 +78,7 @@ Pecu Tsai
    1. [本週任務提示](https://goo.gl/c5v9cG)
    1. [範例網址](https://weidbtest.herokuapp.com/)
    1. [Django Models介紹](https://goo.gl/aSJoKd)
+   1. [Django 操作資料庫教學](https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/django/orm.html)
 1. [Django 教材： 資料模型與資料庫](http://yltang.net/tutorial/django/7/) [全中文！！！]
 1. [Net Ninja - Django models](https://www.youtube.com/watch?v=5zNR3E6WRLE)
 1. [Django Migration到底在做什麼？](https://realpython.com/django-migrations-a-primer/)
@@ -66,6 +86,7 @@ Pecu Tsai
    * [Codecademy: Python - Lists and Dictionaries](https://www.codecademy.com/courses/learn-python/lessons/python-lists-and-dictionaries/exercises/introduction-to-lists?action=resume_content_item)
    * [Udacity: Python - Writing your own Classes](https://classroom.udacity.com/courses/ud036/lessons/997889780/concepts/10136290570923) 如何用 Python 來定義 `class`？ [有中文字幕！！！]
 
+---
 
 ## Week3
 
