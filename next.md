@@ -35,7 +35,9 @@ Pecu Tsai
 
 #### 參考資料
 
-
+* [NetNinja: Django 影片](https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+* [MDN: Django Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
+* 
 
 ---
 
