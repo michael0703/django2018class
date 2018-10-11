@@ -27,7 +27,7 @@ Pecu Tsai
 
 * 這次要新學習的概念： Django 裡面的 Form, Request, GET + POST
 * 瞭解：如何從 view 裡面呼叫 Model 來更改資料庫裡面的資料？
-* 在網站中增加 Form 來得到使用者的輸入
+* 在網站中增加 Form 來得到使用者的輸入
 * Form 裡面的資料送出去後可以存到資料庫
 * 資料庫內容更改後，網頁上面可以看到新的資料
 * 確保利用 Postgre 的網站在本機端 還有 Heroku 上面都跑得動
