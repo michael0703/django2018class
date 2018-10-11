@@ -31,13 +31,22 @@ Pecu Tsai
 * Form 裡面的資料送出去後可以存到資料庫
 * 資料庫內容更改後，網頁上面可以看到新的資料
 * 確保利用 Postgre 的網站在本機端 還有 Heroku 上面都跑得動
+* 了解本週重點問題：
+   * 表單
+      - 如何創建表單？
+      - 如何在後端處理表單？
+      - 你是使用POST還是GET處理表單？
+   * 資料庫
+      - 你是怎麼把本地端資料庫和heroku上面的同步？（方法不只一種）
 
 
 #### 參考資料
 
 * [NetNinja: Django 影片](https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
 * [MDN: Django Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
-* 
+* 助教提供：
+   * [範例網址](https://weidbtest.herokuapp.com/)
+   * [設定psql、推上heroku教學（適用mac、linux）]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit）
 
 ---
 
