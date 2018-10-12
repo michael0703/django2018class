@@ -17,10 +17,46 @@ Pecu Tsai
 
 ---
 
+## Week5
+
+#### In Class
+
+[投影片](TODO)
+
+#### Mission
+
+1. 這次要新學習的概念： Django 裡面的 Form, Request, URL, GET + POST
+1. 瞭解：如何從 view 裡面呼叫 Model 來更改資料庫裡面的資料？
+1. 在網站中增加 Form 來得到使用者的輸入
+1. Form 裡面的資料送出去後可以存到資料庫
+1. 資料庫內容更改後，網頁上面可以看到新的資料
+1. 確保利用 Postgre 的網站在本機端 還有 Heroku 上面都跑得動
+1. 了解本週重點問題：
+   * 表單 (Form)
+      - 如何創建表單？
+      - 如何在後端處理表單？
+      - 你是使用POST還是GET處理表單？
+   * 資料庫
+      - 你是怎麼把本地端資料庫和heroku上面的同步？（方法不只一種）
+
+
+#### 參考資料
+
+* [NetNinja: Django的教學影片](https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc)
+* [如何增加不一樣的 URL + 頁面？](http://dokelung-blog.logdown.com/posts/220283-django-note-2-views-and-urls)
+* [MDN: Django Forms](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
+* [使用者互動與表單 (Forms)](http://dokelung-blog.logdown.com/posts/220833-django-notes-7-forms)
+* 助教提供：
+   * [範例網址](https://weidbtest.herokuapp.com/)
+   * [設定psql、推上heroku教學（適用mac、linux）]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit）
+
+---
+
 ## Week4
 
 #### In Class
-1. 投影片: https://docs.google.com/presentation/d/1cMKatsT5Cp580ghxtYdTWKE03nbcHdVwKVk3Miyl2YI/edit?usp=sharing
+
+[投影片](https://docs.google.com/presentation/d/1cMKatsT5Cp580ghxtYdTWKE03nbcHdVwKVk3Miyl2YI/edit?usp=sharing)
 
 #### Mission
 1. 共學的時候，儘量認識三個陌生同學，問他們一兩個問題，看看能不能聊得來（也不一定需要聊得來啦～）
