@@ -19,7 +19,7 @@ Pecu Tsai
 
 #### In Class
 
-[投影片](TODO)
+[投影片](https://docs.google.com/presentation/d/e/2PACX-1vSaq8sqFrbTRuhqdvg9FBbb_k9mgtdjtY_6LH7XrXDy42-LBmcVQ9YAnFbegiX8ZpvVWJzYovQvd07s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Mission
 
