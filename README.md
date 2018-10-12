@@ -2,8 +2,6 @@
 
 ### [網站如果顯示有問題，請點我看 Github 中的版本](https://github.com/michael0703/django2018class)
 
-網址： https://michael0703.github.io/django2018class/
-
 ## 課程協助者
 
 Pecu Tsai
