@@ -46,7 +46,7 @@ Pecu Tsai
 * [使用者互動與表單 (Forms)](http://dokelung-blog.logdown.com/posts/220833-django-notes-7-forms)
 * 助教提供：
    * [範例網址](https://weidbtest.herokuapp.com/)
-   * [設定psql、推上heroku教學(適用mac、linux)]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit）
+   * [設定psql、推上heroku教學(適用mac、linux)]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit)
 
 ---
 
