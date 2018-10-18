@@ -17,6 +17,40 @@ Pecu Tsai
 
 ---
 
+## Week6 
+
+#### In Class
+
+[投影片](todo)
+
+#### Mission
+
+1. 這次要學習的概念：網頁的cookie、seesion是什麼？
+1. 瞭解說登入系統的基本概念？
+1. 實作一個登入系統
+   *  有基本的登入、註冊、登出頁面
+   *  讓使用者可以清楚地知道自己是否登入、註冊成功(or失敗)
+   *  各個頁面是否可以正確跳轉？
+   *  TODO
+1. 了解本週重點問題
+   *  使用者資料(名稱帳號密碼..)是如何儲存？是存在資料庫或是哪裡？
+   *  為什麼切換到網站的不同頁面伺服器還是可以知道是哪個使用者登入？
+   *  
+   * Heroku
+     - 在本機端註冊一個使用者，可以在heroku端的網頁登入嗎？
+     - 承上題，為什麼？
+
+
+#### 參考資料
+1. 助教範例
+   - [網站](https://weidbtest.herokuapp.com/)
+   - [投影片](https://docs.google.com/presentation/d/1UQlAwJVzFDsj4MykWKyblr72n4k7VcUDHZJDZ7ttz3s/edit#slide=id.g4479fdd358_0_268)
+   - [repo](https://github.com/michael0703/DjangoWeek6LoginSystem)
+1. [簡易教學](http://pythoncat.blogspot.com/2014/11/django11.html)
+1. [redirect函式使用](https://www.jianshu.com/p/921f4cfc798a)
+
+---
+
 ## Week5
 
 #### In Class
