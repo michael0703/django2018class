@@ -18,7 +18,7 @@ Pecu Tsai
 
 #### In Class
 
-[投影片](https://docs.google.com/presentation/u/1/d/1PpyPXNEAqfNk-_Xq7w7QpWu7MT1_cuUXQHJc46pkyuI/edit?usp=drive_web&ouid=104304582073900246141)
+[投影片](https://docs.google.com/presentation/d/1PpyPXNEAqfNk-_Xq7w7QpWu7MT1_cuUXQHJc46pkyuI/edit?usp=sharing)
 
 #### Mission
 
