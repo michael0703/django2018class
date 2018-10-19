@@ -45,6 +45,7 @@ Pecu Tsai
    - [repo](https://github.com/michael0703/DjangoWeek6LoginSystem)
 1. [簡易教學](http://pythoncat.blogspot.com/2014/11/django11.html)
 1. [redirect函式使用](https://www.jianshu.com/p/921f4cfc798a)
+1. [django預設後台管理](https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/Admin_site)
 
 
 ---
