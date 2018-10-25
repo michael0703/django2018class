@@ -16,7 +16,40 @@ Pecu Tsai
 * 資工博六（休學狀態）
 
 ---
+  ## Week7 
 
+#### In Class
+
+[投影片](todo)
+
+#### Mission
+
+1. 這次要學習的概念：ORM資料庫如何使用CRUD,ER-model(規劃資料庫)
+1. 新增資料庫的CRUD功能
+   *  可以新增資料(應該是前幾週功能)
+   *  可以刪除資料
+   *  可以查詢資料
+   *  可以修改資料(並非新增一筆、刪除舊的)
+   *  以上功能加入網頁中(可以讓使用者自己操作、注意權限問題)
+1. 實作資料庫的join
+   *  了解什麼是table join、foreign key
+   *  建立兩個或以上的表、建立彼此之間的FK
+1. 了解本週重點問題
+   *  
+   *  
+
+
+#### 參考資料
+1. 助教範例
+   - [網站](https://weidbtest.herokuapp.com/)
+1. [Django資料庫操作](https://code.ziqiangxuetang.com/django/django-queryset-api.html)
+1. [ER圖介紹](http://cc.cust.edu.tw/~ccchen/doc/db_03.pdf)
+1. [資料庫資料太多、不想全部顯示在同一頁？可以使用Django的分頁套件](https://mozillazg.com/2013/01/django-pagination-by-use-paginator.html)
+
+
+
+
+---
 ## Week6 
 
 #### In Class
