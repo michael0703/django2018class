@@ -2,8 +2,6 @@
 
 ### [網站如果顯示有問題，請點我看 Github 中的版本](https://github.com/michael0703/django2018class)
 
-網址： https://michael0703.github.io/django2018class/
-
 ## 課程協助者
 
 Pecu Tsai
@@ -16,7 +14,8 @@ Pecu Tsai
 * 資工博六（休學狀態）
 
 ---
-  ## Week7 
+
+## Week7 
 
 #### In Class
 
@@ -46,15 +45,13 @@ Pecu Tsai
 1. [ER圖介紹](http://cc.cust.edu.tw/~ccchen/doc/db_03.pdf)
 1. [資料庫資料太多、不想全部顯示在同一頁？可以使用Django的分頁套件](https://mozillazg.com/2013/01/django-pagination-by-use-paginator.html)
 
-
-
-
 ---
+
 ## Week6 
 
 #### In Class
 
-[投影片](todo)
+[投影片](https://docs.google.com/presentation/d/1PpyPXNEAqfNk-_Xq7w7QpWu7MT1_cuUXQHJc46pkyuI/edit?usp=sharing)
 
 #### Mission
 
@@ -64,10 +61,11 @@ Pecu Tsai
    *  有基本的登入、註冊、登出頁面
    *  讓使用者可以清楚地知道自己是否登入、註冊成功(or失敗)
    *  各個頁面是否可以正確跳轉？
+   *  Bonus:你是否可以驗證使用者是否輸入合法資料註冊？如果有兩個人輸入同樣的帳號註冊你能處理嗎？
 1. 了解本週重點問題
    *  使用者資料(名稱帳號密碼..)是如何儲存？是存在資料庫或是哪裡？
+   *  Django的預設使用者欄位有哪些？(除了基本的使用者帳號、密碼)
    *  為什麼切換到網站的不同頁面伺服器還是可以知道是哪個使用者登入？
-   *  
    * Heroku
      - 在本機端註冊一個使用者，可以在heroku端的網頁登入嗎？
      - 承上題，為什麼？
@@ -80,6 +78,8 @@ Pecu Tsai
    - [repo](https://github.com/michael0703/DjangoWeek6LoginSystem)
 1. [簡易教學](http://pythoncat.blogspot.com/2014/11/django11.html)
 1. [redirect函式使用](https://www.jianshu.com/p/921f4cfc798a)
+1. [django預設後台管理](https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/Admin_site)
+
 
 ---
 
@@ -87,7 +87,7 @@ Pecu Tsai
 
 #### In Class
 
-[投影片](TODO)
+[投影片](https://docs.google.com/presentation/d/e/2PACX-1vSaq8sqFrbTRuhqdvg9FBbb_k9mgtdjtY_6LH7XrXDy42-LBmcVQ9YAnFbegiX8ZpvVWJzYovQvd07s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Mission
 
@@ -114,7 +114,7 @@ Pecu Tsai
 * [使用者互動與表單 (Forms)](http://dokelung-blog.logdown.com/posts/220833-django-notes-7-forms)
 * 助教提供：
    * [範例網址](https://weidbtest.herokuapp.com/)
-   * [設定psql、推上heroku教學（適用mac、linux）]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit）
+   * [設定psql、推上heroku教學(適用mac、linux)]（https://docs.google.com/presentation/d/1na4G7xXNmReeTuwU35q-jt4LeOwF_jfP7KaN-hsIVHY/edit)
 
 ---
 
