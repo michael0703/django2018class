@@ -19,7 +19,7 @@ Pecu Tsai
 
 #### In Class
 
-[投影片](todo)
+[投影片](https://docs.google.com/presentation/d/e/2PACX-1vTBqDeU6t6TbaSMoOj9ywy_GT0O2bPk0fynDSi_Z5wppzCCth1xt4sLvlVHdUCPBtBMbI9B6f-UROgK/pub?start=false&loop=false&delayms=3000&fbclid=IwAR2rWtUH7R4qQ3avC9v9iwZp3fishzyzTXRattuu_U42bZLttiOYU1C943s&slide=id.p)
 
 #### Mission
 
@@ -33,9 +33,7 @@ Pecu Tsai
 1. 實作資料庫的join
    *  了解什麼是table join、foreign key
    *  建立兩個或以上的表、建立彼此之間的FK
-1. 了解本週重點問題
-   *  
-   *  
+
 
 
 #### 參考資料
