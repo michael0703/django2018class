@@ -15,14 +15,18 @@ Pecu Tsai
 
 ---
 
+## Week12: Hackathon 終點 + Project起點
+
+[Slides](https://docs.google.com/presentation/d/1rKwhYMz3XNHf7eQFMmZl4RMq3Xdnapn1uZWcxUXl4Dc/)
+
 ## Week10: Hackathon Day #2
 
-[Slides](https://docs.google.com/presentation/d/1TKYXvsYfMAlrQrq0ahCBk2nU5xdIuMLv_IB-WOn5_rc/edit#slide=id.g470b42c6ea_0_21)
+[Slides](https://docs.google.com/presentation/d/1TKYXvsYfMAlrQrq0ahCBk2nU5xdIuMLv_IB-WOn5_rc/)
 
 
 ## Week9: Hackathon Day #1
 
-[Slides](https://docs.google.com/presentation/d/1EUVDxjK_CzTw6X5br_eETdXYwKQNIUj7nC2umnltrO8/edit#slide=id.g45be99fa31_0_30)
+[Slides](https://docs.google.com/presentation/d/1EUVDxjK_CzTw6X5br_eETdXYwKQNIUj7nC2umnltrO8/)
 
 
 ## Week7 
